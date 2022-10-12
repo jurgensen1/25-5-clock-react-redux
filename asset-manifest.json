@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/25-5-clock-react-redux/static/css/main.f41d9e9e.css",
+    "main.js": "/25-5-clock-react-redux/static/js/main.6b1375fb.js",
+    "index.html": "/25-5-clock-react-redux/index.html",
+    "main.f41d9e9e.css.map": "/25-5-clock-react-redux/static/css/main.f41d9e9e.css.map",
+    "main.6b1375fb.js.map": "/25-5-clock-react-redux/static/js/main.6b1375fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41d9e9e.css",
+    "static/js/main.6b1375fb.js"
+  ]
+}
