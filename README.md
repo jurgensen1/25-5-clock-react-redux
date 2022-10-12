@@ -1,6 +1,6 @@
 # Project: 25 + 5 Clock
 In partial completion of freeCodeCamp’s front-end framework certificate program.  
-Used React, Redux, and SASS. 
+Used React, Redux, and CSS. 
 
 ## Live (gh-pages) Version:
 https://jurgensen1.github.io/25-5-clock-react-redux/
