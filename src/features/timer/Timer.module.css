@@ -1,0 +1,64 @@
+.timerLabel {
+    width: 140px;
+    height: 40px;
+    margin: 50px auto;
+    padding-top: 10px;
+    font-size: 24px;
+    background-color: white;
+    border-radius: 3px;
+}
+
+.actionDisplay {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-size: 24px;
+    text-align: center;
+}
+.displayOne {
+    width: 50px;
+    padding-top: 12px;
+    background-color: rgba(255, 255, 255, .3);
+}
+.label {
+    margin-bottom: 10px;
+    width: 100%;
+    color: white;
+}
+.displayButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* margin-bottom: 20px; */
+    
+}
+.button {
+    height: 50px;
+    width: 50px;
+    appearance: none;
+    text-decoration: none;
+    border: none;
+    font-size: 24px;
+}
+.display {
+    height: 36px;
+    width: 100%;
+    margin: 20px auto;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 11px;
+    background-color: white;
+}
+
+.controlButton {
+    width: 150px;
+    height: 150px;
+    font-size: 24px;
+    border-radius: 75px;
+    border: none;
+    margin: 20px
+}

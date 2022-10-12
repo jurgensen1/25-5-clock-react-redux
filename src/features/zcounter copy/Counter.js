@@ -6,12 +6,12 @@ import {
   incrementByAmount,
   incrementAsync,
   incrementIfOdd,
-  selectCount,
-} from './counterSlice';
-import styles from './Counter.module.css';
+  selectTime,
+} from './timerSlice';
+import styles from './Timer.module.css';
 
-export function Counter() {
-  const count = useSelector(selectCount);
+export function Timer() {
+  const time = useSelector(selectTime);
   const dispatch = useDispatch();
   const [incrementAmount, setIncrementAmount] = useState('2');
 
@@ -27,7 +27,7 @@ export function Counter() {
         >
           -
         </button>
-        <span className={styles.value}>{count}</span>
+        <span className={styles.value}>{time}</span>
         <button
           className={styles.button}
           aria-label="Increment value"
