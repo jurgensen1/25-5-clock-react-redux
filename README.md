@@ -1,4 +1,4 @@
-# Project: Drum Machine  
+# Project: 25 + 5 Clock
 In partial completion of freeCodeCamp’s front-end framework certificate program.  
 Used React, Redux, and SASS. 
 
